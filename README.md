@@ -13,12 +13,18 @@ Get [\[lightning\](https://en.wikipedia.org/wiki/Lightning\_Network)!](https://e
 
 # (soft) wallets way
 
-- [Blixt Wallet](https://blixtwallet.github.io/) (Android & iOS)
-- [Breez](https://breez.technology/) (Android & iOS)
-- [Lastbit](https://striga.com/blog/announcing-striga-from-lastbit/)
-- [Muun](https://muun.com/) (Android & iOS)
-- [Nayuta Core](https://nayuta.co/core/) (Android)
-- [Phoenix](https://phoenix.acinq.co/) (Android)
+
+<ul>
+  <li><a href="https://blixtwallet.github.io/" title=“Blixt Wallet Website">Blixt Wallet</a> (Android &amp; iOS)</a></li>	
+	<li><a href="https://breez.technology/" title="Breez Website">Breez</a> (Android &amp; iOS)</li>
+	<li><a href="https://striga.com/blog/announcing-striga-from-lastbit/" title="Striga - Crypto-native Banking as a Service">Striga (aka Lastbit)</a></li>
+	<li><a href="https://muun.com/" title="Muun android app">Muun</a> (Android &amp; iOS)</li>
+	<li><a href="https://play.google.com/store/apps/details?id=com.btcontract.wallet" title="SBW: Simple Bitcoin Wallet
+	">SBW</a></li>
+	<li><a href="https://nayuta.co/core/" title="Nayuta Core website">Nayuta Core</a> (Android)</li>
+	<li><a href="https://phoenix.acinq.co/" title="Phoenix app">Phoenix</a> (Android)</li>
+</ul>
+
 
 # swap/exchange 
 
